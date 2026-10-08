@@ -48,7 +48,7 @@ URL_MAXIMO = "https\://atendimentoungp-painel.softplan.com.br/maximo/ui/login"
 
 
 
-FILE_NAME = r"C:**\U**ser&#x73;**\l**ucas.yan&#x6F;**\O**neDrive - Softplan\Documentos\Abrir Chamado&#x73;**\c**hamados.csv"
+FILE_NAME = r"C:**\U**ser&#x73;**\l**ucas.***&#x6F;**\O**neDrive - Softplan\Documentos\Abrir Chamado&#x73;**\c**hamados.csv"
 
 
 
