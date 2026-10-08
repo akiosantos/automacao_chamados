@@ -44,7 +44,7 @@ from selenium.common.exceptions import (
 
 
 
-URL_MAXIMO = "https\://atendimentoungp-painel.softplan.com.br/maximo/ui/login"
+URL_MAXIMO = "https://seu-ambiente/maximo/ui/login"
 
 
 
